@@ -1,5 +1,5 @@
-# Keggle
- Решение задач с Keggle
+# Kaggle
+ Решение задач с Kaggle
 
 ## [Классификация паролей (Сбер)](https://github.com/TaywanZ/Kaggle/blob/main/PasswordSber.ipynb)
 [Ссылка на датасет](https://www.kaggle.com/datasets/morph1max/password-security-sber-dataset)
